@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>New XML with properties</comment>
+<entry key="password">qwerty</entry>
+<entry key="db_name">clients</entry>
+<entry key="port">52237</entry>
+<entry key="url">localhost </entry>
+<entry key="username">sandor</entry>
+</properties>
